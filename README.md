@@ -1,0 +1,2 @@
+# Uncommon Python Error: ZeroDivisionError within a nested function call
+This repository demonstrates a simple Python program that throws a ZeroDivisionError within a function. While ZeroDivisionError itself is common, the context of it being within a nested function might be less frequently encountered by beginners or those not used to nested function calls. The solution shows error handling to gracefully resolve the situation. 
